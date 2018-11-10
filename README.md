@@ -5,3 +5,4 @@ bok-choy
 strawberries
 lentils
 granola bars
+alalfa sprouts
